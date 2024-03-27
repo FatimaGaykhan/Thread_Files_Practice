@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{5D0F5C19-280C-43A7-9F60-E88A6F1F2679}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Thread_File/Controllers/FileController.cs">
+    <Files>
+      <File FileName="Thread_File/Program.cs" Line="23" Column="1" />
+      <File FileName="Thread_File/Services/Interfaces/IFileService.cs" Line="9" Column="20" />
+      <File FileName="Thread_File/Services/FileService.cs" Line="9" Column="33" />
+      <File FileName="Thread_File/Controllers/FileController.cs" Line="29" Column="31" />
+      <File FileName="Thread_File/Extensions/FileExtesion.cs" Line="8" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Thread_File" expanded="True">
+            <Node name="Thread_File" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="FileController.cs" selected="True" />
+              </Node>
+              <Node name="Extensions" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.Thread__File PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

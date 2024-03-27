@@ -1,0 +1,15 @@
+/Users/fatimagaykhanova/Desktop/Thread_File/Thread_File/bin/Debug/net6.0/Thread_File
+/Users/fatimagaykhanova/Desktop/Thread_File/Thread_File/bin/Debug/net6.0/Thread_File.deps.json
+/Users/fatimagaykhanova/Desktop/Thread_File/Thread_File/bin/Debug/net6.0/Thread_File.runtimeconfig.json
+/Users/fatimagaykhanova/Desktop/Thread_File/Thread_File/bin/Debug/net6.0/Thread_File.dll
+/Users/fatimagaykhanova/Desktop/Thread_File/Thread_File/bin/Debug/net6.0/Thread_File.pdb
+/Users/fatimagaykhanova/Desktop/Thread_File/Thread_File/obj/Debug/net6.0/Thread_File.csproj.AssemblyReference.cache
+/Users/fatimagaykhanova/Desktop/Thread_File/Thread_File/obj/Debug/net6.0/Thread_File.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatimagaykhanova/Desktop/Thread_File/Thread_File/obj/Debug/net6.0/Thread_File.AssemblyInfoInputs.cache
+/Users/fatimagaykhanova/Desktop/Thread_File/Thread_File/obj/Debug/net6.0/Thread_File.AssemblyInfo.cs
+/Users/fatimagaykhanova/Desktop/Thread_File/Thread_File/obj/Debug/net6.0/Thread_File.csproj.CoreCompileInputs.cache
+/Users/fatimagaykhanova/Desktop/Thread_File/Thread_File/obj/Debug/net6.0/Thread_File.dll
+/Users/fatimagaykhanova/Desktop/Thread_File/Thread_File/obj/Debug/net6.0/refint/Thread_File.dll
+/Users/fatimagaykhanova/Desktop/Thread_File/Thread_File/obj/Debug/net6.0/Thread_File.pdb
+/Users/fatimagaykhanova/Desktop/Thread_File/Thread_File/obj/Debug/net6.0/Thread_File.genruntimeconfig.cache
+/Users/fatimagaykhanova/Desktop/Thread_File/Thread_File/obj/Debug/net6.0/ref/Thread_File.dll
